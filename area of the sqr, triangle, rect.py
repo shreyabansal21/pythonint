@@ -1,7 +1,7 @@
 stack=[]
 stack.append("shreya")
 stack.append("rakshit")
-stack.append("prateek")
+stack.append("sagar")
 print(stack)
 print(stack.pop())
 print(stack)
